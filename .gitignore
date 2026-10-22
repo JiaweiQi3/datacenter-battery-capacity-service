@@ -1,0 +1,15 @@
+# Raw downloads (PJM Data Miner material may not be redistributed) and pipeline outputs
+original_data/
+pipeline/*.csv
+pipeline/provenance.json
+pipeline/data_quality_report.md
+
+# Python / editor / OS
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+.DS_Store
+~$*
+*.docx
