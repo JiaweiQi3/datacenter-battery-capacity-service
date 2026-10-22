@@ -2,7 +2,7 @@
 
 A feasibility study and 15-year project-finance model for a 50 MW / 500 MWh battery that would supply the new capacity a 50 MW data center in Loudoun County, Virginia, must bring under a proposed PJM rule.
 
-*Work in progress. Started as the course project for 18-861 Energy Project Development and Finance at Carnegie Mellon University (Aug.–Oct. 2026) and continuing as an independent study. Advisor: Prof. Nathan Williams.*
+*Work in progress, independent study at Carnegie Mellon University (since Aug. 2026). Advisor: Prof. Nathan Williams (CMU Africa).*
 
 ## Status: redesign after the FERC order
 

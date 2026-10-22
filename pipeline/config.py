@@ -1,4 +1,4 @@
-"""Configuration for the 18-861 data-cleaning pipeline.
+"""Configuration for the data-cleaning pipeline.
 
 Single place to change paths, scope and quality thresholds.
 """

@@ -97,7 +97,7 @@ def forecast() -> pd.DataFrame:
              .sort_values(["forecast_hour_utc", "evaluated_at_utc"]))
     qa.record("load forecasts", sources=P_FORECAST, rows_in=rows_in, rows_out=len(out),
               notes=[f"kept forecast_area in {sorted(keep)} (of {len(areas)} areas)",
-                     "lead_hours = forecast horizon; the key Mini 2 feature and industry baseline"])
+                     "lead_hours = forecast horizon; the key forecasting feature and industry baseline"])
     qa.write(out, "load_forecast_hist.csv")
     return out
 
