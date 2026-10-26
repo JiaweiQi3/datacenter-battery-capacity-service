@@ -1,4 +1,4 @@
-![Behind-the-Meter Battery as a Capacity Service for PJM Data Centers](assets/cover.png)
+![Behind-the-Meter Battery as a Capacity Service for PJM Data Centers](figures/cover.png)
 
 # Behind-the-Meter Battery as a Capacity Service for PJM Data Centers
 
