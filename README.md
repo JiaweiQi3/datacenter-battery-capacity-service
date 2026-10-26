@@ -1,3 +1,5 @@
+![Behind-the-Meter Battery as a Capacity Service for PJM Data Centers](assets/cover.png)
+
 # Behind-the-Meter Battery as a Capacity Service for PJM Data Centers
 
 A feasibility study and 15-year project-finance model for a 50 MW / 500 MWh battery that would supply the new capacity a 50 MW data center in Loudoun County, Virginia, must bring under a proposed PJM rule.
